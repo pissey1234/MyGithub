@@ -3,4 +3,4 @@ NGT
 2)Workflow understanding
 3)Code understanding
 4)New requirement understaning
-5)Prototying 
+5)Prototying - modified

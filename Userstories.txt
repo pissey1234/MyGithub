@@ -16,12 +16,4 @@ Interdependency of Features
 
 feature - 3 weeks implemantion
 
-sasdsad
-
-hfhfdhghdfh
-
-jfgjgf
-
-gasdgsd
-
-ff
+This is a new branch

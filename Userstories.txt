@@ -1,0 +1,20 @@
+Feature
+---UserStory
+-----Implementation(Investigation & Coding)
+-----Code review and incorporate review comments
+-----Builds
+-----Test Case Preparation & Review
+-----Testing(PIT & PTT)
+-----User Documentation & Review
+
+3 Months Iteration
+-- 60 days(20day per month)
+---Holidays
+---Leaves
+
+Interdependency of Features
+
+feature - 3 weeks implemantion
+
+Ver1
+

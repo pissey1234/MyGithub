@@ -24,3 +24,5 @@ ver3
 
 This is an message from client
 
+hello message from server 
+
